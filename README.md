@@ -46,5 +46,3 @@ The framework is designed to optimize:
 ---
 
 
-```text
-paper/architecture.png
